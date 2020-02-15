@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GCIL-CMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: arvind
+Implementation-Vendor-Id: com.gcil.cms
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GCIL-CMS
+Created-By: Maven Integration for Eclipse
+
