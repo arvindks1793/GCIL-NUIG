@@ -1,0 +1,8 @@
+spring:
+logging:
+  file: D:/log/GCIL-LOG.log
+  pattern:
+    file: "%d %-5level [%thread] %logger : %msg%n"
+  level:
+    com.gcil.cms.app.*: DEBUG
+    
